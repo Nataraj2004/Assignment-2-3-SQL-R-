@@ -33,3 +33,16 @@ Calculated the sum of column SALARY using SUM.
 
 STEP 10:
 Viewed the columns of MOBILECOMPANY1 and MOBILECOMPANY2 using Ascending and Descending order.
+
+**R LANGUAGE ASSIGNMENT-3**
+PROGRAM DESCRIPTION:
+
+->I have taken a dataset in name of Starbucks which consist of nutritional contents details in it .
+
+->First i have installed a library called modeest and then imported the dataset Starbucks and viewed it.
+
+->The mean,median,mode,standard deviation,variance and range were found using the functions mean(),median(),mfv(),sd(),var(),min()- max()     respectively.
+
+->Again installed a library called moments and imported the dataset Starbucks again.
+
+->Found out the kurtosis and skewness of the columns in the dataset Starbucks.
